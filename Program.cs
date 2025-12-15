@@ -1,8 +1,8 @@
 ﻿Console.Write("Please enter your name: ");
-string name = Console.ReadLine();
+string name = Console.ReadLine() ?? "Stranger";
 Console.WriteLine($"Hello, {name}!");
 Console.Write($"Please enter your age: ");
-string ageInput = Console.ReadLine();
+string ageInput = Console.ReadLine() ?? "";
 
 try
 {

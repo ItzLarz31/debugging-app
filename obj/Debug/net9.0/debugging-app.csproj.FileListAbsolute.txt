@@ -12,3 +12,4 @@ C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\refint\debugging-
 C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.pdb
 C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.genruntimeconfig.cache
 C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\ref\debugging-app.dll
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.sourcelink.json
