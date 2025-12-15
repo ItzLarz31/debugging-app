@@ -1,0 +1,14 @@
+C:\Users\Shawn Dishman\projects\debugging-app\bin\Debug\net9.0\debugging-app.exe
+C:\Users\Shawn Dishman\projects\debugging-app\bin\Debug\net9.0\debugging-app.deps.json
+C:\Users\Shawn Dishman\projects\debugging-app\bin\Debug\net9.0\debugging-app.runtimeconfig.json
+C:\Users\Shawn Dishman\projects\debugging-app\bin\Debug\net9.0\debugging-app.dll
+C:\Users\Shawn Dishman\projects\debugging-app\bin\Debug\net9.0\debugging-app.pdb
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.AssemblyInfoInputs.cache
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.AssemblyInfo.cs
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.csproj.CoreCompileInputs.cache
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.dll
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\refint\debugging-app.dll
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.pdb
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\debugging-app.genruntimeconfig.cache
+C:\Users\Shawn Dishman\projects\debugging-app\obj\Debug\net9.0\ref\debugging-app.dll
